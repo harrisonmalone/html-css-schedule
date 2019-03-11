@@ -1,0 +1,83 @@
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.button-sm {
+  width: 80px;
+  border: 1px solid black;
+  margin: 10px 0px;
+}
+
+.button-sm p {
+  margin: 0px;
+  padding: 5px 0px;
+  text-align: center;
+}
+
+.button-md {
+  width: 120px;
+  border: 1px solid black;
+  margin: 10px 0px;
+}
+
+.button-md p {
+  margin: 0px;
+  padding: 10px 0px;
+  text-align: center;
+}
+
+.lighter-button-sm {
+  width: 80px;
+  box-shadow: 0 5px 8px rgba(0,0,0,0.19);
+  margin: 10px 0px;
+}
+
+.lighter-button-sm p {
+  margin: 0px;
+  padding: 10px 0px;
+  text-align: center;
+}
+
+.lighter-button-sm-hover {
+  width: 80px;
+  margin: 10px 0px;
+  box-shadow: 0 5px 10px rgba(0,0,0,0.03);
+}
+
+.lighter-button-sm-hover:hover {
+  box-shadow: 0 5px 10px rgba(0,0,0,0.20);
+}
+
+.lighter-button-sm-hover p {
+  margin: 0px;
+  padding: 10px 0px;
+  text-align: center;
+}
+
+.rounded-button {
+  width: 80px;
+  border: 1px solid black;
+  border-radius: 10%;
+  margin: 10px 0px;
+}
+
+.rounded-button p {
+  padding: 3px 0px;
+  text-align: center;
+  margin: 0px;
+}
+
+.blue {
+  background: dodgerblue;
+}
+
+.red {
+  background: rgb(245, 9, 9);
+}

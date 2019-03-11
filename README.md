@@ -48,12 +48,12 @@ Morning challenge
 - Perhaps something better
 
 10 - 11
-- Basic CSS, adding to create what my website actually is 
+- Basic CSS, create what my website actually is 
 - Introduction to class and id
 - Styling a specific element within a class `.content p`
 - Emphasize class is for many things id is for one thing
 - External stylesheets (can also use style tag in head but don't)
-- Looking at box model, padding is fat being added to organs, border is skin, padding is space you're away from me
+- Looking at box model, padding is fat being added to organs, border is skin, margin is space you're away from me
 - Preventing default margin set by browser
 - Can override elements with certain box model attributes on them
 - Introduction to unsplash
@@ -93,6 +93,7 @@ Morning challenge
 - Build a navbar in flexbox, add that to component library
 
 1.30 - 5
+- Redo landing page with flexbox
 - Build a form column layout with flexbox
 - Build an inbox email style layout 
 - Build a products page with flexbox
@@ -104,7 +105,7 @@ Morning challenge
 
 10 - 11
 - Introduction to grid
-- Again reference that tweet, grid is for more than one column and more than one row, multi dimensional 
+- Again reference that [tweet](https://twitter.com/rachelandrew/status/1088827732874747910?s=12), grid is for more than one column and more than one row, multi dimensional 
 - You might think then why not just use grid for everything, that is never the case, it's using a combo of block, flexbox and grid to achieve nice design
 - Create a dashboard type of layout, show how i can target specific parts of the grid, [run through docs](https://css-tricks.com/snippets/css/complete-guide-grid/) 
 
@@ -113,7 +114,7 @@ Morning challenge
 
 1.30 - 5
 - Re-do card design with css grid
-- Need more challenges here
+- **Need more challenges here**
 
 ### Monday (18/03)
 

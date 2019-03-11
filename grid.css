@@ -1,0 +1,42 @@
+body {
+  margin: 0px;
+}
+
+.wrapper {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.grid {
+  width: 80vw;
+  height: 80vh;
+  border: 1px solid black;
+  display: grid;
+  grid-template-columns: 100px 100px auto 150px 40px;
+  grid-template-rows: 25% 100px auto;
+  /* transform: rotate(15deg);  */
+}
+
+.grid div {
+  border: 1px solid black;
+}
+
+.background-blue {
+  grid-column: 2 / 3;
+  grid-row: 2 / 3;
+  background: dodgerblue;
+}
+
+.about-me {
+  grid-column: 4 / 5;
+  grid-row: 1 / 2;
+}
+
+.background-red {
+  grid-column: 5 / 6;
+  grid-row: 3 / 4;
+  background: red;
+}

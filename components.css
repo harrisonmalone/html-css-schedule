@@ -1,0 +1,8 @@
+@import './button.css';
+@import './card.css';
+@import './navbar.css';
+
+body {
+  margin: 0px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}

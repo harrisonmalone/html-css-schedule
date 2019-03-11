@@ -1,0 +1,45 @@
+.navbar-container {
+  height: 60px;
+  display: flex;
+}
+
+.logo-container {
+  width: 60%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
+}
+
+.logo {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background: red;
+}
+
+.nav-links {
+  width: 35%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.nav-links a {
+  display: flex;
+  align-items: center;
+}
+
+.nav-links a:hover {
+  border-bottom: 1px solid black;
+}
+
+@media only screen and (max-width: 600px) {
+  .logo-container {
+    width: 20%;
+  }
+  
+  .nav-links {
+    display: none;
+    /* width: 80%; */
+  }
+}

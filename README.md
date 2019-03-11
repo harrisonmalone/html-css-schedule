@@ -87,10 +87,11 @@ Morning challenge
 - Talk about different displays we've done thus far again (mention display none, inline, block, inline-block)
 - When to use and when to use flexbox [example](https://twitter.com/rachelandrew/status/1088827732874747910?s=12)
 - Create a box type layout, [what i did with java](https://gist.github.com/harrisonmalone/41e4d0ebb8f7ff1c5223ae3a851f816b), pretty much take class through docs
+- Creating something in figma, implementing it in css
 
 11-12.30
-- Go find a navbar
-- Build a navbar in flexbox, add that to component library
+- Create a navbar in figma
+- Build a navbar with flexbox, add that to component library
 
 1.30 - 5
 - Redo landing page with flexbox

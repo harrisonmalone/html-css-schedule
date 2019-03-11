@@ -134,6 +134,7 @@ Morning challenge
 Schedule
 - CSS libraries? Do we want to introduce bootstrap or sass at this point?
 - Maybe do user stories and wireframes today
+- [Parallax scrolling](https://www.w3schools.com/howto/howto_css_parallax.asp) 
 
 ### Wednesday (20/03)
 

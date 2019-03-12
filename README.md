@@ -44,8 +44,8 @@ Morning challenge
 ### Wednesday (13/03)
 
 Morning challenge
-- Use what's in repo
-- Perhaps something better
+- You're working for a client
+- They want a ‘sign up’ page that has a form collecting the following information: name, email, DOB, gender (with a radio button), state (from a drop down menu - so look up the select element), a checkbox that says they are happy for you to send them emails about special deals and a submit button
 
 10 - 11
 - Basic CSS, create what my website actually is (fonts, margin, classes and ids, using ids to link to days)
@@ -88,7 +88,8 @@ Morning challenge
 - Introduction to flexbox
 - Talk about different displays we've done thus far again (mention display none, inline, block, inline-block)
 - When to use and when to use flexbox [example](https://twitter.com/rachelandrew/status/1088827732874747910?s=12)
-- Create a box type layout, [what i did with java](https://gist.github.com/harrisonmalone/41e4d0ebb8f7ff1c5223ae3a851f816b), pretty much take class through docs
+- Run through example of moving elements within flexbox to the 9 different positions, pretty much take class through docs
+- Maybe create a box type layout, [what i did with java](https://gist.github.com/harrisonmalone/41e4d0ebb8f7ff1c5223ae3a851f816b)
 - Creating something in figma, implementing it in css
 
 11-12.30
@@ -99,7 +100,8 @@ Morning challenge
 - Redo landing page with flexbox
 - Build a form column layout with flexbox
 - Build an inbox email style layout 
-- Build a products page with flexbox
+- Build a products page with flexbox, using the box type layout
+- Recreate a website with [parallax scrolling](https://www.w3schools.com/howto/howto_css_parallax.asp) 
 
 ### Friday (15/03)
 
@@ -125,38 +127,8 @@ Morning challenge
 - What's in repo
 
 Schedule
-- Media queries, main focus today is around media queries
 - CSS review
-- More CSS challenges
-
-### Tuesday (19/03)
-
-Morning challenge
-- What's in repo
-
-Schedule
-- CSS libraries? Do we want to introduce bootstrap or sass at this point?
-- Maybe do user stories and wireframes today
-- [Parallax scrolling](https://www.w3schools.com/howto/howto_css_parallax.asp) 
-
-### Wednesday (20/03)
-
-Morning challenge 
-- What's in repo
-
-Schedule 
+- More challenges
 - Deployment with Netlify or github pages
-- More css review
-
-### Thursday (21/03)
-
-Morning challenge 
-- What's in repo
-
-Schedule 
+- Introduction to assignment
 - Go to the park to get bio profile done on each other, questionnaire
-- Moodboard, user stories, wireframing
-
-## Other possible challenges
-
-Creating a user manual, similar to what they're doing at Culture Amp, here is [Ryan Bigg's](https://cultureamp.github.io/jep-bios/ryan/) example  

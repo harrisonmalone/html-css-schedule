@@ -132,3 +132,10 @@ Schedule
 - Deployment with Netlify or github pages
 - Introduction to assignment
 - Go to the park to get bio profile done on each other, questionnaire
+
+## Design resources 
+
+Some links to design guidelines:
+- [iPad human interface guidelines (from 2007)](https://www.hung-truong.com/blog/wp-content/uploads/2010/06/iPadHIG.pdf#page17)
+- [Google material design](https://material.io/design/foundation-overview/#)
+- [Human centred design](http://d1r3w4d5z5a88i.cloudfront.net/assets/guide/Field%20Guide%20to%20Human-Centered%20Design_IDEOorg_English-ee47a1ed4b91f3252115b83152828d7e.pdf)

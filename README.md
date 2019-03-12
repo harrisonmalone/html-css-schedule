@@ -64,6 +64,7 @@ Morning challenge
 - Challenge to create a landing page
 - Will need to research background images, setting height for background, difference between margin and padding
 - Challenge to create a website that has a fixed nav, with links that allow you to jump to different points on the page
+- Create a page with a fixed scrollable sidebar, similar to [bootstrap website](https://getbootstrap.com/docs/4.3/components/alerts/)
 
 2 - 2.30
 - CSS components (using import)
@@ -73,9 +74,10 @@ Morning challenge
 - [Box shadow generator](https://www.cssmatic.com/box-shadow)
 - Quick intro to media queries
 - Creating something in figma, implementing it in css, digital color meter, searching for inspiration, link to [figma buttons](https://www.figma.com/file/LckcJY0YPxYty3MAYVOXMHwl/buttons), link to [inspiration](https://material.io/design/components/buttons.html)
+- What is a component, it's one sin
 
 2.30 - 5
-- Challenge to create multiple button and card components, create a reusable library
+- Challenge to create multiple button, card, badge and label components, create a reusable library
 - At mobile view have just one item in navbar, a logo thats centre aligned and links somewhere, at bigger view have navbar that has 4 different links, have logo left aligned and 4 different links right aligned
 - Dropdown menu that uses hover pseudo-class
 

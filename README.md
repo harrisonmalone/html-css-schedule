@@ -102,6 +102,7 @@ Morning challenge
 - Build a form column layout with flexbox
 - Build an inbox email style layout 
 - Build a products page with flexbox, using the box type layout
+- Build a page with items on left that's scrollable and sticky map on the right (need to use google maps api), similar to airbnb design
 - Recreate a website with [parallax scrolling](https://www.w3schools.com/howto/howto_css_parallax.asp) 
 
 ### Friday (15/03)
@@ -119,7 +120,7 @@ Morning challenge
 - Create a dashboard layout using css grid, recreate these 3 examples: [health dashboard](https://dribbble.com/shots/1340306-Rolodex-Dashboard), [price dashboard](https://dribbble.com/shots/1464920-Basic-Dashboard-Design), [sales dashboard](https://elements.envato.com/bracket-responsive-bootstrap-admin-template-QHCFTF?irgwc=1&clickid=360yQf247xyJTJk0GIyI522MUkl0dQz073ja0U0&iradid=298927&utm_campaign=elements_af_78798&iradtype=ONLINE_TRACKING_LINK&irmptype=mediapartner&utm_medium=affiliate&utm_source=impact_radius&mp=Speckyboy%20Design%20Magazine)
 
 1.30 - 5
-- Re-do card design with css grid (instead of using position absolute and relative have a grid)
+- Re-do some kind of card component with css grid
 - Challenge to recreate this website https://www.fortherecord.simonfosterdesign.com/
 
 ### Monday (18/03)
@@ -130,7 +131,7 @@ Morning challenge
 Schedule
 - CSS review
 - More challenges
-- Deployment with Netlify or github pages
+- Deployment with netlify or github pages
 - Introduction to assignment
 - Go to the park to get bio profile done on each other, questionnaire
 

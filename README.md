@@ -73,7 +73,7 @@ Morning challenge
 - For cards show off position relative and absolute
 - [Box shadow generator](https://www.cssmatic.com/box-shadow)
 - Quick intro to media queries
-- Creating something in figma, implementing it in css
+- Creating something in figma, implementing it in css, digital color meter, searching for inspiration, link to [figma buttons](https://www.figma.com/file/LckcJY0YPxYty3MAYVOXMHwl/buttons), link to [inspiration](https://material.io/design/components/buttons.html)
 
 2.30 - 5
 - Challenge to create multiple button and card components, create a reusable library

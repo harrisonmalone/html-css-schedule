@@ -1,0 +1,41 @@
+body {
+  margin: 0px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.wrapper {
+  height: 100vh;
+  width: 100vw;
+}
+
+.sidebar {
+  width: 300px;
+  height: 100%;
+  background: dodgerblue;
+  position: fixed;
+  top: 0;
+  overflow: scroll;
+}
+
+.sidebar ul {
+  margin: 0px;
+}
+
+.sidebar li {
+  padding: 30px 0px;
+  list-style: none;
+  color: white;
+}
+
+.content {
+  margin-left: 300px;
+}
+
+.content-wrapper {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.content p {
+  font-size: 30px;
+}

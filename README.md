@@ -48,7 +48,7 @@ Morning challenge
 - Perhaps something better
 
 10 - 11
-- Basic CSS, create what my website actually is 
+- Basic CSS, create what my website actually is (fonts, margin, classes and ids, using ids to link to days)
 - Introduction to class and id
 - Styling a specific element within a class `.content p`
 - Emphasize class is for many things id is for one thing

@@ -3,6 +3,7 @@
   height: 400px;
   border: 3px dotted black;
   position: relative;
+  margin: 10px 0px;
 }
 
 .card-container img {
@@ -31,4 +32,23 @@
   top: 150px;
   left: 20px;
   padding-left: 20px;
+}
+
+.card-container-with-pic {
+  width: 300px;
+  height: 400px;
+  border: 2px solid rgba(1, 1, 1, 0.1);
+  border-radius: 5px;
+  margin: 10px 0px;
+}
+
+.card-pic {
+  height: 50%;
+  background: url('profile.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+.card-pic-content-wrapper {
+  margin: 10px;
 }

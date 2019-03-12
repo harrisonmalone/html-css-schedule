@@ -1,0 +1,31 @@
+.menu {
+  display: none;
+}
+
+.lighter-button-sm-dropdown {
+  width: 120px;
+  box-shadow: 0 5px 8px rgba(0,0,0,0.19);
+  margin: 10px 0px;
+}
+
+.lighter-button-sm-dropdown:hover .menu {
+  display: inline-block;
+}
+
+.lighter-button-sm-dropdown p {
+  margin: 0px;
+  padding: 10px 0px;
+  text-align: center;
+  background: dodgerblue;
+}
+
+.menu {
+  padding-left: 0px;
+  margin: 0px;
+}
+
+.menu li {
+  list-style: none;
+  text-align: left;
+  padding: 10px 0px;
+}

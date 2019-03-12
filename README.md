@@ -44,8 +44,7 @@ Morning challenge
 ### Wednesday (13/03)
 
 Morning challenge
-- You're working for a client
-- They want a ‘sign up’ page that has a form collecting the following information: name, email, DOB, gender (with a radio button), state (from a drop down menu - so look up the select element), a checkbox that says they are happy for you to send them emails about special deals and a submit button
+- Form challenge
 
 10 - 11
 - Basic CSS, create what my website actually is (fonts, margin, classes and ids, using ids to link to days)
@@ -77,26 +76,28 @@ Morning challenge
 
 2.30 - 5
 - Challenge to create multiple button and card components, create a reusable library
-- At mobile view have cards that are a smaller size, at bigger view have cards that are 50% width, need to research displaying inline for this
+- At mobile view have just one item in navbar, a logo thats centre aligned and links somewhere, at bigger view have navbar that has 4 different links, have logo left aligned and 4 different links right aligned
 - Dropdown menu that uses hover pseudo-class
 
 ### Thursday (14/03)
 
 Morning challenge
-- Zen garden challenge (ongoing throughout day)
+- [Zen garden challenge (ongoing throughout day)](http://www.csszengarden.com/)
 
 10 - 11
 - Introduction to flexbox
 - Talk about different displays we've done thus far again (mention display none, inline, block, inline-block)
 - When to use and when to use flexbox [example](https://twitter.com/rachelandrew/status/1088827732874747910?s=12)
 - Run through example of moving elements within flexbox to the 9 different positions, pretty much take class through docs
-- Maybe create a box type layout, [what i did with java](https://gist.github.com/harrisonmalone/41e4d0ebb8f7ff1c5223ae3a851f816b)
 
 11-12.30
 - Create a navbar in figma
 - Build a navbar with flexbox, add that to component library
 
-1.30 - 5
+1.30 - 2
+- - Create a box type layout, [what i did with java](https://gist.github.com/harrisonmalone/41e4d0ebb8f7ff1c5223ae3a851f816b)
+
+2 - 5
 - Redo landing page with flexbox
 - Build a form column layout with flexbox
 - Build an inbox email style layout 

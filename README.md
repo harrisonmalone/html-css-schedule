@@ -64,6 +64,7 @@ Morning challenge
 11 - 1
 - Challenge to create a landing page
 - Will need to research background images, setting height for background, difference between margin and padding
+- Challenge to create a website that has a fixed nav, with links that allow you to jump to different points on the page
 
 2 - 2.30
 - CSS components (using import)
@@ -72,6 +73,7 @@ Morning challenge
 - For cards show off position relative and absolute
 - [Box shadow generator](https://www.cssmatic.com/box-shadow)
 - Quick intro to media queries
+- Creating something in figma, implementing it in css
 
 2.30 - 5
 - Challenge to create multiple button and card components, create a reusable library
@@ -89,7 +91,6 @@ Morning challenge
 - When to use and when to use flexbox [example](https://twitter.com/rachelandrew/status/1088827732874747910?s=12)
 - Run through example of moving elements within flexbox to the 9 different positions, pretty much take class through docs
 - Maybe create a box type layout, [what i did with java](https://gist.github.com/harrisonmalone/41e4d0ebb8f7ff1c5223ae3a851f816b)
-- Creating something in figma, implementing it in css
 
 11-12.30
 - Create a navbar in figma

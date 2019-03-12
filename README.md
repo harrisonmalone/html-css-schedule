@@ -75,6 +75,7 @@ Morning challenge
 
 2.30 - 5
 - Challenge to create multiple button and card components, create a reusable library
+- At mobile view have cards that are a smaller size, at bigger view have cards that are 50% width, need to research displaying inline for this
 - Dropdown menu that uses hover pseudo-class
 - Direct to freecodecamp if done
 
@@ -112,11 +113,11 @@ Morning challenge
 - Create a dashboard type of layout, show how i can target specific parts of the grid, [run through docs](https://css-tricks.com/snippets/css/complete-guide-grid/) 
 
 11 - 12.30
-- Create a dashboard layout using css grid
+- Create a dashboard layout using css grid, recreate these 3 examples: [health dashboard](https://dribbble.com/shots/1340306-Rolodex-Dashboard), [price dashboard](https://dribbble.com/shots/1464920-Basic-Dashboard-Design), [sales dashboard](https://elements.envato.com/bracket-responsive-bootstrap-admin-template-QHCFTF?irgwc=1&clickid=360yQf247xyJTJk0GIyI522MUkl0dQz073ja0U0&iradid=298927&utm_campaign=elements_af_78798&iradtype=ONLINE_TRACKING_LINK&irmptype=mediapartner&utm_medium=affiliate&utm_source=impact_radius&mp=Speckyboy%20Design%20Magazine)
 
 1.30 - 5
-- Re-do card design with css grid
-- **Need more challenges here**
+- Re-do card design with css grid (instead of using position absolute and relative have a grid)
+- Challenge to recreate this website https://www.fortherecord.simonfosterdesign.com/
 
 ### Monday (18/03)
 

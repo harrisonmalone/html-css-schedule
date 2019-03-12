@@ -67,7 +67,7 @@ Morning challenge
 
 2 - 2.30
 - CSS components (using import)
-- Build some components (buttons, cards)
+- Build some components (buttons, cards, badges, labels)
 - Pseudo-class (hover) to create box shadow effect on button
 - For cards show off position relative and absolute
 - [Box shadow generator](https://www.cssmatic.com/box-shadow)
@@ -77,7 +77,6 @@ Morning challenge
 - Challenge to create multiple button and card components, create a reusable library
 - At mobile view have cards that are a smaller size, at bigger view have cards that are 50% width, need to research displaying inline for this
 - Dropdown menu that uses hover pseudo-class
-- Direct to freecodecamp if done
 
 ### Thursday (14/03)
 

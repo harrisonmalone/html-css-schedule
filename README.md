@@ -71,16 +71,17 @@ Morning challenge
 - Pseudo-class (hover) to create box shadow effect on button
 - For cards show off position relative and absolute
 - [Box shadow generator](https://www.cssmatic.com/box-shadow)
+- Quick intro to media queries
 
 2.30 - 5
 - Challenge to create multiple button and card components, create a reusable library
-- Dropdown menu that uses hover
+- Dropdown menu that uses hover pseudo-class
 - Direct to freecodecamp if done
 
 ### Thursday (14/03)
 
 Morning challenge
-- Whats in morning challenges repo
+- Zen garden challenge (ongoing throughout day)
 
 10 - 11
 - Introduction to flexbox

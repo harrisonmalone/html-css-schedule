@@ -88,10 +88,14 @@ Morning challenge
 
 10 - 11
 - [CSS variables](https://codepen.io/harrisonmalone/pen/jJYEWE?editors=1100), grab color scheme from [coolers](https://coolors.co/)
-- Introduction to flexbox
-- Talk about different displays we've done thus far again (mention display none, inline, block, inline-block)
+- What the [root element](https://css-tricks.com/almanac/selectors/r/root/) actually is 
+- Opening vscode
+- Show how annoying it is to vertically align a box in the middle of a page (2 containers and then vh)
+- Now use flex box 
+- Understanding on that tweet, what kinds of things are one dimensional (buttons, navbars, forms)
 - When to use and when to use flexbox [example](https://twitter.com/rachelandrew/status/1088827732874747910?s=12)
 - Run through example of moving elements within flexbox to the 9 different positions, pretty much take class through [docs](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- Talk about different displays we've done thus far again (mention display none, inline, block, inline-block)
 
 11 - 12.30
 - Create a navbar in figma

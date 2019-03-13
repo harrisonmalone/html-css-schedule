@@ -67,14 +67,14 @@ Morning challenge
 - Create a page with a fixed scrollable sidebar, similar to [bootstrap website](https://getbootstrap.com/docs/4.3/components/alerts/)
 
 2 - 2.30
+- What is a component, it's a single piece of your website, making things modular is much cleaner, also kind of how react works
 - CSS components (using import)
 - Build some components (buttons, cards, badges, labels)
 - Pseudo-class (hover) to create box shadow effect on button
 - For cards show off position relative and absolute
-- [Box shadow generator](https://www.cssmatic.com/box-shadow)
+- [Box shadow generator](https://www.cssmatic.com/box-shadow) or just use figma
 - Quick intro to media queries
 - Creating something in figma, implementing it in css, digital color meter, searching for inspiration, link to [figma buttons](https://www.figma.com/file/LckcJY0YPxYty3MAYVOXMHwl/buttons), link to [inspiration](https://material.io/design/components/buttons.html)
-- What is a component, it's one sin
 
 2.30 - 5
 - Challenge to create multiple button, card, badge and label components, create a reusable library
@@ -92,7 +92,7 @@ Morning challenge
 - When to use and when to use flexbox [example](https://twitter.com/rachelandrew/status/1088827732874747910?s=12)
 - Run through example of moving elements within flexbox to the 9 different positions, pretty much take class through docs
 
-11-12.30
+11 - 12.30
 - Create a navbar in figma
 - Build a navbar with flexbox, add that to component library
 

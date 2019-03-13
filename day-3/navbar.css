@@ -1,6 +1,7 @@
 .navbar-container {
   height: 60px;
   display: flex;
+  box-shadow: 2px 0px 4px rgba(0, 0, 0, 0.3);
 }
 
 .logo-container {

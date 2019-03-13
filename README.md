@@ -87,10 +87,11 @@ Morning challenge
 - [Zen garden challenge (ongoing throughout day)](http://www.csszengarden.com/)
 
 10 - 11
+- [CSS variables](https://codepen.io/harrisonmalone/pen/jJYEWE?editors=1100), grab color scheme from [coolers](https://coolors.co/)
 - Introduction to flexbox
 - Talk about different displays we've done thus far again (mention display none, inline, block, inline-block)
 - When to use and when to use flexbox [example](https://twitter.com/rachelandrew/status/1088827732874747910?s=12)
-- Run through example of moving elements within flexbox to the 9 different positions, pretty much take class through docs
+- Run through example of moving elements within flexbox to the 9 different positions, pretty much take class through [docs](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 11 - 12.30
 - Create a navbar in figma
@@ -102,7 +103,7 @@ Morning challenge
 2 - 5
 - Redo landing page with flexbox
 - Build a form column layout with flexbox
-- Build an inbox email style layout 
+- Build an inbox email style layout with flexbox
 - Build a products page with flexbox, using the box type layout
 - Build a page with items on left that's scrollable and sticky map on the right (need to use google maps api), similar to airbnb design
 - Recreate a website with [parallax scrolling](https://www.w3schools.com/howto/howto_css_parallax.asp) 

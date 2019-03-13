@@ -98,8 +98,9 @@ Morning challenge
 - Talk about different displays we've done thus far again (mention display none, inline, block, inline-block)
 
 11 - 12.30
-- Create a navbar in figma
-- Build a navbar with flexbox, add that to component library
+- Create a centred box (500px by 500px) in the middle of full width page using flexbox 
+- Create a row of 4 boxes 200px by 200px using flexbox, test out different ways to justify them (center, flex-end, space-around)
+- Build similar navbar with flexbox, add that to component library
 - Create a page with a navbar and a full height container (100vh) underneath the navbar, you'll need to look up CSS calc for an elegant solution
 
 1.30 - 2

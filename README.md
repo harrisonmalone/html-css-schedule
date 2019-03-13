@@ -100,6 +100,7 @@ Morning challenge
 11 - 12.30
 - Create a navbar in figma
 - Build a navbar with flexbox, add that to component library
+- Create a page with a navbar and a full height container (100vh) underneath the navbar, you'll need to look up CSS calc for an elegant solution
 
 1.30 - 2
 - - Create a box type layout, [what i did with java](https://gist.github.com/harrisonmalone/41e4d0ebb8f7ff1c5223ae3a851f816b)

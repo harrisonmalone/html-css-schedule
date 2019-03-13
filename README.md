@@ -102,12 +102,12 @@ Morning challenge
 - Create a row of 4 boxes 200px by 200px using flexbox, test out different ways to justify them (center, flex-end, space-around)
 - Build similar navbar with flexbox, add that to component library
 - Create a page with a navbar and a full height container (100vh) underneath the navbar, you'll need to look up CSS calc for an elegant solution
+- Redo landing page with flexbox
 
 1.30 - 2
 - - Create a box type layout, [what i did with java](https://gist.github.com/harrisonmalone/41e4d0ebb8f7ff1c5223ae3a851f816b)
 
 2 - 5
-- Redo landing page with flexbox
 - Build a form column layout with flexbox
 - Build an inbox email style layout with flexbox
 - Build a products page with flexbox, using the box type layout

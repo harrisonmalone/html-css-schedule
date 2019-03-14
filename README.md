@@ -97,6 +97,15 @@ Morning challenge
 - Run through example of moving elements within flexbox to the 9 different positions, pretty much take class through [docs](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - Talk about different displays we've done thus far again (mention display none, inline, block, inline-block)
 
+
+Different displays
+Block: takes up the whole width of whatever it's in (parent)
+Inline: takes up same size of the thing (content)
+Inline-block: same as inline but respects height and width, and top bottom padding
+None: hidden (dropdown button, media queries)
+Flex: position things in different spaces, automates positioning
+
+
 11 - 12.30
 - Create a centred box (500px by 500px) in the middle of full width page using flexbox 
 - Create a row of 4 boxes 200px by 200px using flexbox, test out different ways to justify them (center, flex-end, space-around)
@@ -105,13 +114,13 @@ Morning challenge
 - Redo landing page with flexbox
 
 1.30 - 2
-- - Create a box type layout, [what i did with java](https://gist.github.com/harrisonmalone/41e4d0ebb8f7ff1c5223ae3a851f816b)
+- Create a box type layout, [what i did with java](https://gist.github.com/harrisonmalone/41e4d0ebb8f7ff1c5223ae3a851f816b)
 
 2 - 5
 - Build a form column layout with flexbox
 - Build an inbox email style layout with flexbox
 - Build a products page with flexbox, using the box type layout
-- Build a page with items on left that's scrollable and sticky map on the right (need to use google maps api), similar to airbnb design
+- Build a page with items on left that's scrollable and sticky map on the right (need to use google maps api)
 - Recreate a website with [parallax scrolling](https://www.w3schools.com/howto/howto_css_parallax.asp) 
 
 ### Friday (15/03)
@@ -126,10 +135,11 @@ Morning challenge
 - Create a dashboard type of layout, show how i can target specific parts of the grid, [run through docs](https://css-tricks.com/snippets/css/complete-guide-grid/) 
 
 11 - 12.30
+- Make a chess board in css grid
 - Create a dashboard layout using css grid, recreate these 3 examples: [health dashboard](https://dribbble.com/shots/1340306-Rolodex-Dashboard), [price dashboard](https://dribbble.com/shots/1464920-Basic-Dashboard-Design), [sales dashboard](https://elements.envato.com/bracket-responsive-bootstrap-admin-template-QHCFTF?irgwc=1&clickid=360yQf247xyJTJk0GIyI522MUkl0dQz073ja0U0&iradid=298927&utm_campaign=elements_af_78798&iradtype=ONLINE_TRACKING_LINK&irmptype=mediapartner&utm_medium=affiliate&utm_source=impact_radius&mp=Speckyboy%20Design%20Magazine)
 
 1.30 - 5
-- Re-do some kind of card component with css grid
+- Re-do one of your card components in css grid
 - Challenge to recreate this website https://www.fortherecord.simonfosterdesign.com/
 
 ### Monday (18/03)

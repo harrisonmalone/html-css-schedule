@@ -126,7 +126,7 @@ Flex: position things in different spaces, automates positioning
 ### Friday (15/03)
 
 Morning challenge
-- Continue on with something you didn't finish yesterday
+- Continue on with zen garden challenge or any challenge you didn't finish yesterday
 
 10 - 11
 - Introduction to grid
